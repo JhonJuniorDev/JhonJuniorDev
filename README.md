@@ -1,8 +1,5 @@
 ### Olá! me chamo jhon 👋
-Este repositório é onde eu crio projetos,
-mas são para teste, aqui nos links ao lado vai tá o meu
-repositório profissional com projetos inteiramente
-concluídos.
+Este repositório é onde estão meus projetos completos, é um repositório profissional
 
 - 🌱 no momento estou aprendendo React
 - 👯 estou querendo colaborar com meus conhecimentos em front-end
