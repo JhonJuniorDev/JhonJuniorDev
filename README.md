@@ -1,5 +1,5 @@
 ### Olá! me chamo jhon 👋
-Este repositório é onde estão meus projetos completos, é um repositório profissional
+Este repositório é onde estão meus projetos completos
 
 - 🌱 No momento estou aprendendo Vue.js
 - 👯 Pretendo colaborar com meus conhecimentos em front-end
